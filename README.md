@@ -196,3 +196,36 @@ ${i["name"]} ansible_host=${i["network_interface"][0]["nat_ip_address"] platform
 
 ### Задание 1
 
+![1](https://github.com/Nikich828/hw_terraform_03/blob/main/1.JPG)
+
+![1](https://github.com/Nikich828/hw_terraform_03/blob/main/2.JPG)
+
+### Задание 2
+
+![1](https://github.com/Nikich828/hw_terraform_03/blob/main/3.JPG)
+
+![1](https://github.com/Nikich828/hw_terraform_03/blob/main/4.JPG)
+
+![1](https://github.com/Nikich828/hw_terraform_03/blob/main/5.JPG)
+
+![1](https://github.com/Nikich828/hw_terraform_03/blob/main/6.JPG)
+
+### Задание 3
+
+![1](https://github.com/Nikich828/hw_terraform_03/blob/main/7.JPG)
+
+![1](https://github.com/Nikich828/hw_terraform_03/blob/main/8.JPG)
+
+![1](https://github.com/Nikich828/hw_terraform_03/blob/main/9.JPG)
+
+![1](https://github.com/Nikich828/hw_terraform_03/blob/main/10.JPG)
+
+### Задание 4
+
+![1](https://github.com/Nikich828/hw_terraform_03/blob/main/11.JPG)
+
+![1](https://github.com/Nikich828/hw_terraform_03/blob/main/12.JPG)
+
+![1](https://github.com/Nikich828/hw_terraform_03/blob/main/13.JPG)
+
+![1](https://github.com/Nikich828/hw_terraform_03/blob/main/14.JPG)
